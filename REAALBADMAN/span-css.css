@@ -1,0 +1,24 @@
+.c1{
+    color: red;
+    font-size: 30px;
+}
+
+.c2{
+    color: blue;
+    font-size: 20px;
+}
+
+.titre{
+    color: rgb(218, 83, 166);
+    font-family: Arial;
+}
+
+.bienvenue{
+    color:red;
+    font-size: 100px;
+    font-family: Arial;
+}
+
+.border{
+    border: solid
+}

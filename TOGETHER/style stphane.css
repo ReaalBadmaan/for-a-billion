@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NO:wght@100..400&display=swap');
+
+.t1 {
+    color: blue;
+}
+
+.t2 {
+    color: red;
+}
+
+span {
+    color: red;
+    font-family: 'Playwrite NO';
+}
+
+.cadre {
+    border: 1px solid black;
+}
+
+div {
+    border: 1px solid black;
+}
